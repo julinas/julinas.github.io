@@ -1,11 +1,8 @@
 ## Projects
 
-[<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
-
-[<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
-
-[<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
-
+<center>
+  <img src="./test.png" height="100px" width="100px" >
+</center>
 ---
 [CV](./Blank.pdf)
 
