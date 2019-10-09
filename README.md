@@ -1,8 +1,13 @@
-[<img src="./test.png" height="250px" width="80%" >](./Blank.pdf)
+---
 
-[<img src="./test.png" height="250px" width="80%" >](./Blank.pdf)
+## Project1
+[<img src="./test.png" height="auto" width="100%" >](./Blank.pdf)
 
-[<img src="./test.png" height="250px" width="80%" >](./Blank.pdf)
+## Project2
+[<img src="./test.png" height="auto" width="100%" >](./Blank.pdf)
+
+## Project3
+[<img src="./test.png" height="auto" width="100%" >](./Blank.pdf)
 
 ---
 [CV](./Blank.pdf)
