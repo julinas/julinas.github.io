@@ -2,7 +2,9 @@
 
 [<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
 
-## Others
+[<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
+
+[<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
 
 ---
 [CV](./Blank.pdf)
