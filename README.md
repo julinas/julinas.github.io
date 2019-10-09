@@ -31,5 +31,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 -->
-[Portfolio](CV.html) [CV](#)
+[Portfolio](CV.html) [CV](./Blank.pdf)
 
