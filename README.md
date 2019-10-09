@@ -1,10 +1,7 @@
-<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
-
 ## Projects
 
-<div class="thumbnail" >
-  <img src="./test.png"/> 
-</div>
+[<img src="./test.png" height="100px" width="100px" >](./Blank.pdf)
+
 
 ---
 [CV](./Blank.pdf)
