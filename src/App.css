@@ -18,6 +18,16 @@ html, body {
     font-style: italic;
 }
 
+a.orchid {
+    vertical-align:top;
+    padding-left: 5px;
+}
+
+img.orchid {
+    width:1em;
+    margin-right:.5em;
+}
+
 .portfolio {
     padding: 10px;
     margin: 0px;

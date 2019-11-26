@@ -11,6 +11,11 @@ function App() {
 	    </div>
 	    <div class="titleline">
 	    PhD student, Computational Media, UC Santa Cruz
+	    	<span itemscope itemtype="https://schema.org/Person">
+	    		<a class="orchid" itemprop="sameAs" content="https://orcid.org/0000-0003-4803-4317" href="https://orcid.org/0000-0003-4803-4317" target="orcid.widget" rel="me noopener noreferrer">
+	    			<img class="orchid" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon"/>
+	    		</a>
+	    	</span>
 	    </div>
 	</div>
 	<div class="portfolio">
