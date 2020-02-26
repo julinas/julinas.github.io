@@ -28,13 +28,16 @@ function App() {
 	        </div>
 	    </div>
 	    <div class="portfolio-item">
+	        <a href="https://github.com/julinas/iSAM/blob/master/README.md" target="_blank"><img src="iSAM.JPG"/></a>
+	    </div>
+	    <div class="portfolio-item">
+	        <a href="https://github.com/julinas/recipe/blob/master/README.md" target="_blank"><img src="Recipe.png"/></a>
+	    </div>
+	    <div class="portfolio-item">
 	        <a href="https://github.com/AugmentedDesignLab/town-sim-py/blob/master/README.md" target="_blank"><img src="Townsim.png"/></a>
 	    </div>
 	    <div class="portfolio-item">
 	        <a href="https://github.com/julinas/generative-tarot/blob/master/README.md" target="_blank"><img src="Tarot.png"/></a>
-	    </div>
-	    <div class="portfolio-item">
-	        <a href="https://github.com/julinas/recipe/blob/master/README.md" target="_blank"><img src="Recipe.png"/></a>
 	    </div>
 	</div>
 	</div>
