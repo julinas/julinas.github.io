@@ -28,16 +28,28 @@ function App() {
 	        </div>
 	    </div>
 	    <div class="portfolio-item">
-	        <a href="https://github.com/julinas/recipe/blob/master/README.md" target="_blank"><img src="Recipe.png"/></a>
+	    	<img src="Recipe.png"/>
+	    	<a href="https://github.com/julinas/recipe/blob/master/RdEADME.md" target="_blank">
+	    		Generative Recipes<br/>2018
+	    	</a>
 	    </div>
 	    <div class="portfolio-item">
-	        <a href="https://github.com/AugmentedDesignLab/town-sim-py/blob/master/README.md" target="_blank"><img src="Townsim.png"/></a>
+	    	<img src="Townsim.png"/>
+	        <a href="https://github.com/AugmentedDesignLab/town-sim-py/blob/master/README.md" target="_blank">
+	    		TownSim<br/>2019
+	    	</a>
 	    </div>
 	    <div class="portfolio-item">
-	        <a href="https://github.com/julinas/generative-tarot/blob/master/README.md" target="_blank"><img src="Tarot.png"/></a>
+	    	<img src="Tarot.png"/>
+	        <a href="https://github.com/julinas/generative-tarot/blob/master/README.md" target="_blank">
+	    		Generative Tarot<br/>2019
+	    	</a>
 	    </div>
 	    <div class="portfolio-item">
-	        <a href="https://github.com/julinas/iSAM/blob/master/README.md" target="_blank"><img src="iSAM.JPG"/></a>
+	    	<img src="iSAM.JPG"/>
+	        <a href="https://github.com/julinas/iSAM/blob/master/README.md" target="_blank">
+	    		iSAM<br/>2020
+	    	</a>
 	    </div>
 	</div>
 	</div>
