@@ -51,6 +51,12 @@ function App() {
 	    		iSAM<br/>2020
 	    	</a>
 	    </div>
+	    <div class="portfolio-item">
+	    	<img src="keyboard.png"/>
+	        <a href="https://github.com/julinas/notes-on-a-keyboard" target="_blank">
+	    		notes on a keyboard<br/>2020
+	    	</a>
+	    </div>
 	</div>
 	</div>
     );
