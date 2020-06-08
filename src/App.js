@@ -1,9 +1,8 @@
 import React from 'react';
 import {
-	BrowserRouter as Router,
+	HashRouter as Router,
 	Switch,
-	Route,
-	Link
+	Route
 } from "react-router-dom";
 
 import logo from './logo.svg';
@@ -67,7 +66,7 @@ class Portfolio extends React.Component {
 	    </div>
 	    <div class="portfolio-item">
 	    	<img src="keyboard.png"/>
-	        <a href="notesonakeyboard" target="_blank">
+	        <a href="/#/notesonakeyboard" target="_blank">
 	    		notes on a keyboard<br/>2020
 	    	</a>
 	    </div>
