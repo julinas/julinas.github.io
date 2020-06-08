@@ -2,7 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+class App extends React.Component {
+	componentDidMount() {
+		document.title = "Asiiah Song"
+	}
+
+	render() {
     return (
 	<div class="root">
 	<div class="titlebox">
@@ -29,7 +34,7 @@ function App() {
 	    </div>
 	    <div class="portfolio-item">
 	    	<img src="Recipe.png"/>
-	    	<a href="https://github.com/julinas/recipe/blob/master/RdEADME.md" target="_blank">
+	    	<a href="https://github.com/julinas/recipe/blob/master/README.md" target="_blank">
 	    		Generative Recipes<br/>2018
 	    	</a>
 	    </div>
@@ -60,6 +65,7 @@ function App() {
 	</div>
 	</div>
     );
+	}
 }
 
 export default App;
