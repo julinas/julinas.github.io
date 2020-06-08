@@ -8,7 +8,7 @@ import {
 
 import logo from './logo.svg';
 import './App.css';
-import KeyboardMain from './notes-on-a-keyboard/src/main';
+import KeyboardMain from './KeyboardMain';
 
 
 class Portfolio extends React.Component {

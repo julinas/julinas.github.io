@@ -1,5 +1,5 @@
 import React from 'react';
-import './main.css';
+import './KeyboardMain.css';
 import KeyboardApp from './Keyboard';
 
 class KeyboardMain extends React.Component {
@@ -109,7 +109,3 @@ class KeyboardMain extends React.Component {
 }
 
 export default KeyboardMain;
-
-
-// ReactDOM.render(<App/>, document.getElementById('root'));
-
