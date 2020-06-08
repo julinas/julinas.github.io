@@ -13,7 +13,7 @@ import KeyboardMain from './KeyboardMain';
 
 class Portfolio extends React.Component {
 	componentDidMount() {
-		document.title = "Asiiah Song's Homepage"
+		document.title = "Asiiah Song"
 	}
 
 	render() {
@@ -80,7 +80,7 @@ class Portfolio extends React.Component {
 class App extends React.Component {
 	render() {
 		return (
-			<Router>
+			<Router basename={process.env.PUBLIC_URL}>
 				<Switch>
 					<Route exact path="/">
 						<Portfolio />
