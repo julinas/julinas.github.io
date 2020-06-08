@@ -67,7 +67,7 @@ class Portfolio extends React.Component {
 	    </div>
 	    <div class="portfolio-item">
 	    	<img src="keyboard.png"/>
-	        <a href="/notes-on-a-keyboard" target="_blank">
+	        <a href="notesonakeyboard" target="_blank">
 	    		notes on a keyboard<br/>2020
 	    	</a>
 	    </div>
@@ -82,12 +82,8 @@ class App extends React.Component {
 		return (
 			<Router basename={process.env.PUBLIC_URL}>
 				<Switch>
-					<Route exact path="/">
-						<Portfolio />
-					</Route>
-					<Route path="/notes-on-a-keyboard">
-						<KeyboardMain />
-					</Route>
+					<Route exact path="/" component={Portfolio}/>
+					<Route path="/notesonakeyboard" component={KeyboardMain}/>
 				</Switch>
 			</Router>
 		)
