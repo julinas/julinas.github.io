@@ -12,7 +12,7 @@ import KeyboardMain from './KeyboardMain';
 
 class Portfolio extends React.Component {
 	componentDidMount() {
-		document.title = "Asiiah Song's Page"
+		document.title = "Asiiah Song"
 	}
 
 	render() {
