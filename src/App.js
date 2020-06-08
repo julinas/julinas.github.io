@@ -83,7 +83,7 @@ class App extends React.Component {
 			<Router basename={process.env.PUBLIC_URL}>
 				<Switch>
 					<Route exact path="/" component={Portfolio}/>
-					<Route path="/notesonakeyboard" component={KeyboardMain}/>
+					<Route path="/notesonakeyboard" component={Portfolio}/>
 				</Switch>
 			</Router>
 		)
