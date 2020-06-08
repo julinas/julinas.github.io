@@ -1,8 +1,17 @@
 import React from 'react';
+import {
+	BrowserRouter as Router,
+	Switch,
+	Route,
+	Link
+} from "react-router-dom";
+
 import logo from './logo.svg';
 import './App.css';
+import KeyboardMain from './notes-on-a-keyboard/src/main';
 
-class App extends React.Component {
+
+class Portfolio extends React.Component {
 	componentDidMount() {
 		document.title = "Asiiah Song"
 	}
@@ -58,13 +67,30 @@ class App extends React.Component {
 	    </div>
 	    <div class="portfolio-item">
 	    	<img src="keyboard.png"/>
-	        <a href="https://github.com/julinas/notes-on-a-keyboard" target="_blank">
+	        <a href="/notes-on-a-keyboard" target="_blank">
 	    		notes on a keyboard<br/>2020
 	    	</a>
 	    </div>
 	</div>
 	</div>
     );
+	}
+}
+
+class App extends React.Component {
+	render() {
+		return (
+			<Router>
+				<Switch>
+					<Route exact path="/">
+						<Portfolio />
+					</Route>
+					<Route path="/notes-on-a-keyboard">
+						<KeyboardMain />
+					</Route>
+				</Switch>
+			</Router>
+		)
 	}
 }
 
