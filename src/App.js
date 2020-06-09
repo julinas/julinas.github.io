@@ -48,7 +48,7 @@ class Portfolio extends React.Component {
 	    </div>
 	    <div class="portfolio-item">
 	    	<img src="Townsim.png"/>
-	        <a href="https://github.com/AugmentedDesignLab/town-sim-py/blob/master/README.md" target="_blank">
+	        <a href="https://github.com/julinas/town-sim-py/blob/master/README.md" target="_blank">
 	    		TownSim<br/>2019
 	    	</a>
 	    </div>
